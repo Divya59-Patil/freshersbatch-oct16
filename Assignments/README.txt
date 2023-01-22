@@ -8,4 +8,9 @@ New line add in the file
 checkout to html-assignments branch
 changes in css-assignments branch
 >>>>>>> css-assignments
+<<<<<<< HEAD
 Same changes in this file
+=======
+Changes in js-assignments branch
+
+>>>>>>> js-assignments
